@@ -1,5 +1,5 @@
 # Qbuzz
-Password Safe android application built with Java in Android Studio./n
+Password Safe android application built with Java in Android Studio.\n
 The purpose of the app is for the users to be able to save their login credentials of any website or application.
 The app is comprised of the following pages:
 1-Login
@@ -20,4 +20,6 @@ Each login credentials will be comprised of 4 sections: 1-Website/app name 2-Use
 The users can create as many of these login credentials as they'd like and delete them too.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The backend API used for this app is from Back4App.com
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
