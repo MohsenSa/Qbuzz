@@ -25,6 +25,24 @@ Here, the users can create new login credentials for any website or application 
 ### The users can create as many of these login credentials as they'd like and delete them too.
 ### The backend API used for this app is from [Back4App](https://Back4App.com).
 # Screenshots of the App
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 <div class="row">
   <div class="column">
     <img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/First%20Page%20-%20Qbuzz%20Logo.jpg" width="150" height="280">
@@ -42,18 +60,6 @@ Here, the users can create new login credentials for any website or application 
     <img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Main%20Menu%201.jpg?raw=true" width="150" height="280">
   </div>
 </div>
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 <img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Main%20Menu%202.jpg?raw=true" width="150" height="280">
 <img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Add%20Credentials%20-%20Gmail.jpg?raw=true" width="150" height="280">
