@@ -12,7 +12,7 @@
 ### 8-Setting(providing option to choose the prefered language of the app, Persian or English)
 ### 9-About(provide info on the app developer)
 ### 10-Sign-out
-## Explaining number page 5:(Pass Safe)
+## Explaining page 5:(Pass Safe)
 ### The main functionality of the app lies in this page. 
 ### Here, the users can create new login credentials for any website or application they want. They can also see all of their previously added credetials.
 ### Each login credentials will be comprised of 4 sections: 
