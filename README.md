@@ -2,7 +2,6 @@
 ## Password Safe android application built with Java in Android Studio.
 ### The purpose of the app is for the users to be able to save their login credentials of any website or application.
 ## The app is comprised of the following pages:
-
 <ol>
   <li>Login</li>
   <li>Sign-up</li>
