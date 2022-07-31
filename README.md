@@ -22,6 +22,6 @@ Here, the users can create new login credentials for any website or application 
 3. Password for the webite(or app) 
 4. Icon of the wesite(or app).
 ### The users can create as many of these login credentials as they'd like and delete them too.
-### The backend API used for this app is from [Back4App](https://Back4App.com)
+### The backend API used for this app is from [Back4App](https://Back4App.com).
 
 
