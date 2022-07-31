@@ -12,6 +12,7 @@
 8. Setting(providing option to choose the prefered language of the app, Persian or English)
 9. About(provide info on the app developer)
 10. Sign-out
+
 ## Explaining page 5:(Pass Safe)
 ### The main functionality of the app lies in this page. 
 
