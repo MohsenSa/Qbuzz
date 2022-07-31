@@ -2,16 +2,16 @@
 ## Password Safe android application built with Java in Android Studio.
 ### The purpose of the app is for the users to be able to save their login credentials of any website or application.
 ## The app is comprised of the following pages:
-## 1-Login
-## 2-Sign-up
-## 3-Forgot Pass/Username
-## 4-Main menu(providing options to go to diffrent parts the app)
-## 5-Pass Safe(the main functionality of the app)
-## 6-QR Code Scanner(optional section of the app to scan QR Codes)
-## 7-Profile(providing info on the user, profile photo change and much more!)
-## 8-Setting(providing option to choose the prefered language of the app, Persian or English)
-## 9-About(provide info on the app developer)
-## 10-Sign-out
+### 1-Login
+### 2-Sign-up
+### 3-Forgot Pass/Username
+### 4-Main menu(providing options to go to diffrent parts the app)
+### 5-Pass Safe(the main functionality of the app)
+### 6-QR Code Scanner(optional section of the app to scan QR Codes)
+### 7-Profile(providing info on the user, profile photo change and much more!)
+### 8-Setting(providing option to choose the prefered language of the app, Persian or English)
+### 9-About(provide info on the app developer)
+### 10-Sign-out
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Explaining number page 5:(Pass Safe)
 ## The main functionality of the app lies in this page. 
