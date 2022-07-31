@@ -15,7 +15,7 @@
 ## Explaining page 5:(Pass Safe)
 ### The main functionality of the app lies in this page. 
 
-Here, the users can create new login credentials for any website or application they want. They can also see all of their previously added credetials. It's worth mentioning that the users can create as many of these login credentials as they'd like and delete them too.
+Here, the users can create new login credentials for any website or application they want. They can also see all of their previously added credetials. It's also worth mentioning that the users can create as many of these login credentials as they'd like and delete them too.
 ### Each login credentials will be comprised of 4 sections: 
 1. Website(or app) name 
 2. Username(or email) for the webite/app 
