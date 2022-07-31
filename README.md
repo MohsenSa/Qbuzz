@@ -25,5 +25,5 @@ Here, the users can create new login credentials for any website or application 
 ### The users can create as many of these login credentials as they'd like and delete them too.
 ### The backend API used for this app is from [Back4App](https://Back4App.com).
 # Screenshots of the App
-![Logo Page](https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/First%20Page%20-%20Qbuzz%20Logo.jpg=250x250)
+![Logo Page](https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/First%20Page%20-%20Qbuzz%20Logo.jpg|width=250)
 
