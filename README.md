@@ -26,4 +26,12 @@ Here, the users can create new login credentials for any website or application 
 ### The backend API used for this app is from [Back4App](https://Back4App.com).
 # Screenshots of the App
 <img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/First%20Page%20-%20Qbuzz%20Logo.jpg" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Login%20Page.jpg?raw=true" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Signup%20Page.jpg?raw=true" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Reset%20Password%20Page.jpg?raw=true" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Main%20Menu%201.jpg?raw=true" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Main%20Menu%202.jpg?raw=true" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/Add%20Credentials%20-%20Gmail.jpg?raw=true" width="150" height="280">
+<img src="https://github.com/MohsenSa/Qbuzz/blob/main/App%20Screenshots/All%20Credentials.jpg?raw=true" width="150" height="280">
+
 
