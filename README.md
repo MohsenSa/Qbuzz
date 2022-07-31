@@ -7,6 +7,13 @@
   <li>Login</li>
   <li>Sign-up</li>
   <li>Forgot Pass/Username</li>
+  <li>Main menu(providing options to go to diffrent parts the app)</li>
+  <li>Pass Safe(the main functionality of the app)</li>
+  <li>QR Code Scanner(optional section of the app to scan QR Codes)</li>
+  <li>Profile(providing info on the user, profile photo change and much more!)</li>
+  <li>Setting(providing option to choose the prefered language of the app, Persian or English)</li>
+  <li>About(provide info on the app developer)</li>
+  <li>Sign-out</li>
 </ol>
 ### 1-Login
 ### 2-Sign-up
